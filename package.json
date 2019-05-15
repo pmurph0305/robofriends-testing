@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pmurph0305.github.io/RobofriendsPWA",
+  "homepage": "https://pmurph0305.github.io/robofriends-testing",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-fetch": "^2.3.0",
