@@ -30,4 +30,4 @@ workflows:
       - extra_job
       - test:
           requires:
-            - extra_thing
+            - extra_job
